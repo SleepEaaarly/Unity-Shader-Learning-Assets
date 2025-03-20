@@ -12,6 +12,8 @@ Shader "Unity Shaders Book/Chapter 9/9_ForwardRendering"
     {
         Pass
         {
+            Cull Off
+
             Tags {"LightMode"="ForwardBase"}
             CGPROGRAM
             #pragma vertex vert
