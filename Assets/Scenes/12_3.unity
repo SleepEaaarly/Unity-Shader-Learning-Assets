@@ -664,11 +664,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 995714311}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5887b7d146fd1f14cbd6ebc54d587a00, type: 3}
+  m_Script: {fileID: 11500000, guid: 3b7d96b44a1c92e40a6e2a12f2ab99e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  motionBlurShader: {fileID: 4800000, guid: 0c8ca16543f5d9a4799a137e4cd0b847, type: 3}
-  blurAmount: 0.5
+  motionBlurShader: {fileID: 4800000, guid: fbaab9633d48b5c4caea2d8ff85dfc3f, type: 3}
+  blurSize: 0.5
 --- !u!1 &1028179710
 GameObject:
   m_ObjectHideFlags: 0
