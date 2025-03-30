@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: 14_CartoonMat
+  m_Name: 14_ToonShadingMat
   m_Shader: {fileID: 4800000, guid: aa29d8f1a5587cf45b92b502b00e7585, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
